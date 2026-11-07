@@ -1,1 +1,1 @@
-# Blog Preview Card using CSS Flexbox
+# Blog Preview Card Component using CSS Flexbox
