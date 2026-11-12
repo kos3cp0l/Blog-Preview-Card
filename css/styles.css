@@ -114,11 +114,11 @@ a:active {
 /* Medium Mobile Devices */
 @media (min-width: 375px) {
     .article-title {
-
+        font-size: 1.4rem;
     }
 
     #footer {
-
+        font-size: 0.7rem;
     }
 }
 
